@@ -1,0 +1,62 @@
+
+## R Script
+##This repository contains R scripts and data files for visualizing various datasets related to capital outlays, income, population density, temperature, and median age by state.
+
+#Load and clean data
+ploty <- read.csv("results.csv")
+realplot <- ploty[2:3]
+realplot <- realplot[-c(53:60),]
+realplot$AMOUNT <- parse_number(realplot$AMOUNT)
+
+#total capital outlays by state
+ggplot(realplot, aes(x = reorder(STATE, AMOUNT), y = AMOUNT)) +
+  geom_bar(stat = 'identity') + coord_flip() + 
+  labs(title = "Total Capital Outlays by State (2015)", y = "Amount in $", x = "State") +
+  theme_grey(base_size = 12)
+
+#average income data
+incomeavg <- read.csv("income1.csv")
+
+ggplot(incomeavg, aes(x = reorder(STATE, AVERAGE), y = AVERAGE)) + 
+  geom_bar(stat = 'identity') + coord_flip()
+
+mergedo <- merge(realplot, incomeavg, by = "STATE")
+
+ggplot(mergedo, aes(x = AMOUNT, y = AVERAGE)) + geom_point() + 
+  geom_text(aes(label = STATE), size = 3, position = position_nudge(x = 0, y = -500)) +
+  labs(title = "Average Capital Outlay Per Capita vs. Average Income Per Capita", 
+       x = "Average Capital Outlay Per Capita", y = "Average Income Per Capita") + 
+  geom_smooth(method = 'lm', se = FALSE)
+
+#population density data
+popdense <- read.csv("POP DENSE.csv")
+merge2 <- merge(mergedo, popdense, by = "STATE")
+merge2$POP.DENSITY <- parse_number(merge2$POP.DENSITY)
+
+ggplot(merge2, aes(x = AMOUNT, y = POP.DENSITY)) + geom_point() +
+  geom_text(aes(label = STATE), size = 3, position = position_nudge(x = 0, y = -20)) +
+  labs(title = "Avg. Population Density vs Average Capital Outlay per Capita", 
+       x = "Avg. Capital Outlay Per Capita", y = "Pop Density Per Sq. Mile") +
+  geom_smooth(method = 'lm', se = FALSE)
+
+#average temperature data
+avgTemp <- read.csv("AvgTemp.csv")
+merge3 <- merge(merge2, avgTemp, by = "STATE")
+merge3$AvgTemp <- parse_number(merge3$AvgTemp)
+
+ggplot(merge3, aes(x = AMOUNT, y = AvgTemp)) + geom_point() +
+  geom_text(aes(label = STATE), size = 3, position = position_nudge(x = 0, y = -0.5)) +
+  labs(title = "Avg. Temperature vs Average Capital Outlay per Capita", 
+       x = "Avg. Capital Outlay Per Capita", y = "Average Temp") +
+  geom_smooth(method = 'lm', se = FALSE)
+
+#median age data
+median_age <- read.csv("MedianAge.csv")
+merge4 <- merge(merge3, median_age, by = "STATE")
+merge4$MedianAge <- parse_number(merge4$MedianAge)
+
+ggplot(merge4, aes(x = AMOUNT, y = MedianAge)) + geom_point() +
+  geom_text(aes(label = STATE), size = 3, position = position_nudge(x = 0, y = -0.5)) +
+  labs(title = "Median Age vs Average Capital Outlay per Capita", 
+       x = "Avg. Capital Outlay Per Capita", y = "Median Age") +
+  geom_smooth(method = 'lm', se = FALSE)
