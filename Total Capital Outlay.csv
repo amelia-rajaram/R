@@ -1,61 +1,53 @@
-﻿TYPE,STATE,AMOUNT,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-(E006) Total Capital Outlays,Alaska,"$4,125 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-(E006) Total Capital Outlays,DC,"$4,082 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-(E006) Total Capital Outlays,North Dakota,"$3,274 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-(E006) Total Capital Outlays,Wyoming,"$2,910 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-(E006) Total Capital Outlays,New York,"$1,817 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-(E006) Total Capital Outlays,Hawaii,"$1,692 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-(E006) Total Capital Outlays,Nebraska,"$1,643 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-(E006) Total Capital Outlays,Iowa,"$1,591 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-(E006) Total Capital Outlays,Washington,"$1,563 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-(E006) Total Capital Outlays,South Dakota,"$1,437 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-(E006) Total Capital Outlays,Massachusetts,"$1,386 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-(E006) Total Capital Outlays,Colorado,"$1,367 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-(E006) Total Capital Outlays,New Mexico,"$1,306 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-(E006) Total Capital Outlays,Connecticut,"$1,256 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-(E006) Total Capital Outlays,Kansas,"$1,251 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-(E006) Total Capital Outlays,Minnesota,"$1,249 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-(E006) Total Capital Outlays,California,"$1,241 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-(E006) Total Capital Outlays,Louisiana,"$1,205 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-(E006) Total Capital Outlays,Texas,"$1,187 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-(E006) Total Capital Outlays,Illinois,"$1,173 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-(E006) Total Capital Outlays,Oklahoma,"$1,170 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-(E006) Total Capital Outlays,United States,"$1,140 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-(E006) Total Capital Outlays,New Jersey,"$1,130 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-(E006) Total Capital Outlays,Utah,"$1,129 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-(E006) Total Capital Outlays,Oregon,"$1,127 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-(E006) Total Capital Outlays,Virginia,"$1,096 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-(E006) Total Capital Outlays,Pennsylvania,"$1,060 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-(E006) Total Capital Outlays,Kentucky,"$1,052 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-(E006) Total Capital Outlays,Mississippi,"$1,015 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-(E006) Total Capital Outlays,Wisconsin,"$1,006 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-(E006) Total Capital Outlays,Montana,$991 ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-(E006) Total Capital Outlays,Ohio,$988 ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-(E006) Total Capital Outlays,Maryland,$954 ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-(E006) Total Capital Outlays,Vermont,$942 ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-(E006) Total Capital Outlays,Nevada,$905 ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-(E006) Total Capital Outlays,Arkansas,$898 ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-(E006) Total Capital Outlays,Georgia,$896 ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-(E006) Total Capital Outlays,Florida,$889 ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-(E006) Total Capital Outlays,Delaware,$876 ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-(E006) Total Capital Outlays,Alabama,$872 ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-(E006) Total Capital Outlays,South Carolina,$872 ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-(E006) Total Capital Outlays,Indiana,$870 ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-(E006) Total Capital Outlays,Arizona,$816 ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-(E006) Total Capital Outlays,West Virginia,$815 ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-(E006) Total Capital Outlays,North Carolina,$813 ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-(E006) Total Capital Outlays,Tennessee,$808 ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-(E006) Total Capital Outlays,Missouri,$782 ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-(E006) Total Capital Outlays,Idaho,$724 ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-(E006) Total Capital Outlays,Rhode Island,$724 ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-(E006) Total Capital Outlays,Michigan,$670 ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-(E006) Total Capital Outlays,New Hampshire,$663 ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-(E006) Total Capital Outlays,Maine,$607 ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+﻿TYPE,STATE,AMOUNT
+(E006) Total Capital Outlays,Alaska,"$4,125 "
+(E006) Total Capital Outlays,DC,"$4,082 "
+(E006) Total Capital Outlays,North Dakota,"$3,274 "
+(E006) Total Capital Outlays,Wyoming,"$2,910 "
+(E006) Total Capital Outlays,New York,"$1,817 "
+(E006) Total Capital Outlays,Hawaii,"$1,692 "
+(E006) Total Capital Outlays,Nebraska,"$1,643 "
+(E006) Total Capital Outlays,Iowa,"$1,591 "
+(E006) Total Capital Outlays,Washington,"$1,563 "
+(E006) Total Capital Outlays,South Dakota,"$1,437 "
+(E006) Total Capital Outlays,Massachusetts,"$1,386 "
+(E006) Total Capital Outlays,Colorado,"$1,367 "
+(E006) Total Capital Outlays,New Mexico,"$1,306 "
+(E006) Total Capital Outlays,Connecticut,"$1,256 "
+(E006) Total Capital Outlays,Kansas,"$1,251 "
+(E006) Total Capital Outlays,Minnesota,"$1,249 "
+(E006) Total Capital Outlays,California,"$1,241 "
+(E006) Total Capital Outlays,Louisiana,"$1,205 "
+(E006) Total Capital Outlays,Texas,"$1,187 "
+(E006) Total Capital Outlays,Illinois,"$1,173 "
+(E006) Total Capital Outlays,Oklahoma,"$1,170 "
+(E006) Total Capital Outlays,United States,"$1,140 "
+(E006) Total Capital Outlays,New Jersey,"$1,130 "
+(E006) Total Capital Outlays,Utah,"$1,129 "
+(E006) Total Capital Outlays,Oregon,"$1,127 "
+(E006) Total Capital Outlays,Virginia,"$1,096 "
+(E006) Total Capital Outlays,Pennsylvania,"$1,060 "
+(E006) Total Capital Outlays,Kentucky,"$1,052 "
+(E006) Total Capital Outlays,Mississippi,"$1,015 "
+(E006) Total Capital Outlays,Wisconsin,"$1,006 "
+(E006) Total Capital Outlays,Montana,$991 "
+(E006) Total Capital Outlays,Ohio,$988 "
+(E006) Total Capital Outlays,Maryland,$954 "
+(E006) Total Capital Outlays,Vermont,$942 "
+(E006) Total Capital Outlays,Nevada,$905 "
+(E006) Total Capital Outlays,Arkansas,$898 "
+(E006) Total Capital Outlays,Georgia,$896 "
+(E006) Total Capital Outlays,Florida,$889 "
+(E006) Total Capital Outlays,Delaware,$876 "
+(E006) Total Capital Outlays,Alabama,$872 "
+(E006) Total Capital Outlays,South Carolina,$872 "
+(E006) Total Capital Outlays,Indiana,$870 "
+(E006) Total Capital Outlays,Arizona,$816 "
+(E006) Total Capital Outlays,West Virginia,$815 "
+(E006) Total Capital Outlays,North Carolina,$813 "
+(E006) Total Capital Outlays,Tennessee,$808 
+(E006) Total Capital Outlays,Missouri,$782
+(E006) Total Capital Outlays,Idaho,$724
+(E006) Total Capital Outlays,Rhode Island,$724 
+(E006) Total Capital Outlays,Michigan,$670
+(E006) Total Capital Outlays,New Hampshire,$663 
+(E006) Total Capital Outlays,Maine,$607 
