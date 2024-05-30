@@ -2,7 +2,7 @@
 ## R Script
 ##This repository contains R scripts and data files for visualizing various datasets related to capital outlays, income, population density, temperature, and median age by state.
 
-#Load and clean data
+#clean data
 ploty <- read.csv("results.csv")
 realplot <- ploty[2:3]
 realplot <- realplot[-c(53:60),]
