@@ -24,13 +24,11 @@ The dataset used in this project is derived from the US Bank and the Census Bure
 The project involved the following steps:
 1. **Data Cleaning and Processing**:
    - Checked for and removed duplicates.
-   - Handled missing values appropriately.
-   - Standardized date formats and other relevant fields.
+   - Handled missing values. 
    - Verified and corrected inconsistencies in the data.
    
 2. **Regression Analysis**:
-   - Conducted regression analysis using R to identify the impact of various factors on infrastructure spending.
-   - Analyzed the relationship between variables like median age, average temperature, and infrastructure spending.
+   - Conducted regression analysis using R and Stata to analyze the relationship between median age, average temperature, and infrastructure spending.
 
 3. **Visualization and Reporting**:
    - Created visualizations to identify spending patterns and trends.
