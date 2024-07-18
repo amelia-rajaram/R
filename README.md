@@ -41,9 +41,9 @@ The project involved the following steps:
 
 - **Median Age**: A significant relationship was found between the median age of a population and infrastructure spending per capita.
 - **Average Temperature**: Regions with extreme temperatures tend to have higher infrastructure spending to cope with climate challenges.
-- **Average Income**: Higher average income levels were associated with greater infrastructure investment.
+- **Average Income**: Higher average income levels are positively correlated with greater infrastructure spending.
 - **Population Density**: More densely populated areas required higher infrastructure spending to support the population.
-- **Capital Outlay**: Variations in capital outlay per capita were analyzed to understand regional differences in spending.
+- **Capital Outlay**: States with higher per capita outlay demonstrate a greater capacity for infrastructure development, reflecting diverse fiscal priorities and capacities.
 
 ## Visualizations
 
