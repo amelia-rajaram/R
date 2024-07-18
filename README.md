@@ -18,3 +18,4 @@ The dataset used in this project is derived from the US Bank and the Census Bure
 - RStudio
 - Excel
 - Stata
+[Yellow Green Black and White Simple Lined Science Project Poster Landscape (900 x 650 mm).pdf](https://github.com/user-attachments/files/16288309/Yellow.Green.Black.and.White.Simple.Lined.Science.Project.Poster.Landscape.900.x.650.mm.pdf)
