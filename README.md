@@ -3,7 +3,7 @@
 ## Overview
 This project represents my Economics Capstone, where our team conducted a regression analysis to understand the infrastructure spending differences within the United States. Specifically, I worked on the median age and average temperature variables using R to provide informed recommendations and policy decisions.
 
-## Dataset and forecasts on infrastructure spending.i
+## Dataset and forecasts on infrastructure spending
 The dataset used in this project is derived from the US Bank and the Census Bureau. Some of the key variables analyzed include:
 
 - Median Age
@@ -11,7 +11,7 @@ The dataset used in this project is derived from the US Bank and the Census Bure
 - Average Income
 - Capital Outlay per Capita
 - Population Density
-- Total Captal Outlay by State
+- Total Capital Outlay by State
 
 ## Tools Used
 - R
@@ -40,7 +40,7 @@ The project involved the following steps:
 - **Median Age**: A significant relationship was found between the median age of a population and infrastructure spending per capita.
 - **Average Temperature**: Regions with extreme temperatures tend to have higher infrastructure spending to cope with climate challenges.
 - **Average Income**: Higher average income levels are positively correlated with greater infrastructure spending.
-- **Population Density**: More densely populated areas required higher infrastructure spending to support the population.
+- **Population Density**: More densely populated areas require higher infrastructure spending to support the population.
 - **Capital Outlay**: States with higher per capita outlay demonstrate a greater capacity for infrastructure development, reflecting diverse fiscal priorities and capacities.
 
 ## Visualizations
