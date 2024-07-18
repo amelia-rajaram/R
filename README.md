@@ -1,9 +1,9 @@
 # Economics Capstone Project
 
 ## Overview
-This project represents my Economics Capstone, where our team conducted a regression analysis to understand the infrastructure spending differences within the United States. Specifically, I worked on the median age and average temperature variables using R to provide recommendations and forecasts on infrastructure spending.
+This project represents my Economics Capstone, where our team conducted a regression analysis to understand the infrastructure spending differences within the United States. Specifically, I worked on the median age and average temperature variables using R to provide informed recommendations and policy decisions.
 
-## Dataset
+## Dataset and forecasts on infrastructure spending.i
 The dataset used in this project is derived from the US Bank and the Census Bureau. Some of the key variables analyzed include:
 
 - Median Age
@@ -18,4 +18,49 @@ The dataset used in this project is derived from the US Bank and the Census Bure
 - RStudio
 - Excel
 - Stata
+
+## Analysis and Methodology
+
+The project involved the following steps:
+1. **Data Cleaning and Processing**:
+   - Checked for and removed duplicates.
+   - Handled missing values appropriately.
+   - Standardized date formats and other relevant fields.
+   - Verified and corrected inconsistencies in the data.
+   
+2. **Regression Analysis**:
+   - Conducted regression analysis using R to identify the impact of various factors on infrastructure spending.
+   - Analyzed the relationship between variables like median age, average temperature, and infrastructure spending.
+
+3. **Visualization and Reporting**:
+   - Created visualizations to identify spending patterns and trends.
+   - Developed an infographic summarizing key findings and insights.
+   - Compiled a comprehensive report detailing the methodology, analysis, and conclusions.
+
+## Key Findings
+
+- **Median Age**: A significant relationship was found between the median age of a population and infrastructure spending per capita.
+- **Average Temperature**: Regions with extreme temperatures tend to have higher infrastructure spending to cope with climate challenges.
+- **Average Income**: Higher average income levels were associated with greater infrastructure investment.
+- **Population Density**: More densely populated areas required higher infrastructure spending to support the population.
+- **Capital Outlay**: Variations in capital outlay per capita were analyzed to understand regional differences in spending.
+
+## Visualizations
+
+### State Infrastructure Spending Differences
 <img width="879" alt="Screenshot 2024-07-18 at 2 37 55 PM" src="https://github.com/user-attachments/assets/fae2a929-a259-4321-bb91-383da236c0c3">
+
+## Repository Contents
+
+- Datasets: Contains the cleaned dataset
+  - `AvgTemp.csv`
+  - `InfaRev.csv`
+  - `POP_DENSE.csv`
+  - `Total_Capital_Outlay.csv`
+  - `income1.csv`
+- Analysis: R scripts for regression analysis
+  - `Regression Data Visualization`
+- Infographic`: Infographic summarizing key findings
+  - `Regression Infographic.png`
+- `README.md`: Project overview and details
+
